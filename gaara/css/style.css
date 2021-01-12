@@ -7881,7 +7881,7 @@ header {
 @media (max-width: 767.98px) {
   .about-section .author-img {
     display: block;
-    height: 300px; } }
+    height: 800px; } } ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 .wrap {
   padding: 0; }
@@ -8207,13 +8207,14 @@ textarea.form-control {
   font-weight: 700;
   font-size: 40px; }
 
-.img,
-.author-img,
+.img,.author-img,
 .logo-img,
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; }
+
+
 
 .image-popup {
   cursor: -webkit-zoom-in;
@@ -8531,7 +8532,7 @@ textarea.form-control {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat; }
-  @media (max-width: 767.98px) {
+  @media (max-width: 300px) {
     .block-3 .image {
       height: 300px; } }
 
